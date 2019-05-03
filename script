@@ -19,7 +19,7 @@
 },
 {
   "title": "100 Cims",
-  "url": "http://betaserver.icgc.cat/dades/100cims.zip",
+  "url": "http://localhost:3000/100cims.zip",
   "directoryUrl": "",
   "abstract": "Capas 100 cims",
   "extent": [
