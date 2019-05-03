@@ -1,0 +1,55 @@
+[{
+"title": "Topo ICGC",
+  "url": "http://geoserveis.icgc.cat/icc_mapesbase/wms/service",
+  "directoryUrl": "",
+  "abstract": "WMS",
+  "extent": [
+  	-89,-180,89,180
+  ],
+  "serviceInterfaceType": "WMS",
+  "interfaceVersion": "1.1.1",
+  "images": [],
+  "layers": [
+  {
+    "title": "Topografic",
+    "name": "mtc25m",
+    "queryable": false
+  }
+  ]
+},
+{
+  "title": "100 Cims",
+  "url": "http://betaserver.icgc.cat/dades/100cims.zip",
+  "directoryUrl": "",
+  "abstract": "Capas 100 cims",
+  "extent": [
+  	40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545
+  ],
+  "serviceInterfaceType": "Vector",
+  "layers": [
+    {
+    "title": "100 Cims",
+    "name": "cims",
+    "queryable": true
+  }
+  ]
+},
+{
+  "title": "Precipitación",
+  "url": "http://betaserver.icgc.cat/dades/Precipitacio_anual_WGS84.tif",
+  "directoryUrl": "",
+  "abstract": "Precipitación",
+  "extent": [
+  	40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545
+  ],
+  "serviceInterfaceType": "Raster",
+  "layers": [
+    {
+    "title": "Precipitación",
+    "name": "Precipitacion",
+    "queryable": true
+  }
+  ]
+}
+ 
+]
