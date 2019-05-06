@@ -98,5 +98,32 @@
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
   "serviceInterfaceType": "Vector",
   "layers": [{"title": "Cartografía Ambiental","name": "Cartografía Ambiental","queryable": true}]
+},
+{
+  "title": "Habitats diputació de Barcelona",
+  "url": "http://localhost:3000/habitat_dip_barce_wgs84.zip",
+  "directoryUrl": "",
+  "abstract": "Cartografía Ambiental",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Vector",
+  "layers": [{"title": "Habitats de Barcelona","name": "Habitats de Barcelona","queryable": true}]
+},
+{
+  "title": "Habitats diputació de Barcelona",
+  "url": "http://localhost:3000/habitat_dip_barce_wgs84.zip",
+  "directoryUrl": "",
+  "abstract": "Cartografía Ambiental",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Vector",
+  "layers": [{"title": "Habitats de Barcelona","name": "Habitats de Barcelona","queryable": true}]
+},
+{
+  "title": "Irradiación global",
+  "url": "http://localhost:3000/ranual2_wgs84.tif",
+  "directoryUrl": "",
+  "abstract": "Irradiación global",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Raster",
+  "layers": [{"title": "Irradiación global","name": "Irradiación global","queryable": true}]
 }
 ]
