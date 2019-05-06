@@ -71,5 +71,14 @@
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
   "serviceInterfaceType": "Vector",
   "layers": [{"title": "Deficiencia hídrica","name": "Deficiencia hídrica","queryable": true}]
+},
+{
+  "title": "Habitats de Catalunya",
+  "url": "http://localhost:3000/mapa_habitats_wgs84.zip",
+  "directoryUrl": "",
+  "abstract": "Deficiencia hídrica",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Vector",
+  "layers": [{"title": "Habitats de Catalunya","name": "Habitats de Catalunya","queryable": true}]
 }
 ]
