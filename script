@@ -18,18 +18,18 @@
   ]
 },
 {
-  "title": "500 Cims",
-  "url": "http://localhost:3000/Tramos_5.zip",
+  "title": "Amplitud Térmica",
+  "url": "http://localhost:3000/amplitud_termica.zip",
   "directoryUrl": "",
-  "abstract": "Capas 100 cims",
+  "abstract": "Amplitud termica de Catalunya",
   "extent": [
   	40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545
   ],
   "serviceInterfaceType": "Vector",
   "layers": [
     {
-    "title": "100 Cims",
-    "name": "cims",
+    "title": "Amplitud termica",
+    "name": "ATC",
     "queryable": true
   }
   ]
