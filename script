@@ -155,7 +155,7 @@
 },
 {
   "title": "Espacios de interés geológico",
-  "url": "http://localhost:3000/mgc50mpv01_wgs84.zip",
+  "url": "http://localhost:3000/patrigeo_wgs84.zip",
   "directoryUrl": "",
   "abstract": "Representación de los espacios de interés geológico de Catalunya",
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
