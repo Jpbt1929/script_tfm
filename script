@@ -50,22 +50,5 @@
     "queryable": true
   }
   ]
-},
-{
-  "title": "Radiación anual",
-  "url": "http://localhost:3000/Radiacio_anual_WGS84.tif",
-  "directoryUrl": "",
-  "abstract": "Radiación anual",
-  "extent": [
-  	40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545
-  ],
-  "serviceInterfaceType": "Raster",
-  "layers": [
-    {
-    "title": "Radiación",
-    "name": "Radiación",
-    "queryable": true
-  }
-  
- ]
+}
 ]
