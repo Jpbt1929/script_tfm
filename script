@@ -80,5 +80,14 @@
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
   "serviceInterfaceType": "Vector",
   "layers": [{"title": "Habitats de Catalunya","name": "Habitats de Catalunya","queryable": true}]
+},
+{
+  "title": "Evapotranspiración",
+  "url": "http://localhost:3000/evapot_wgs84.zip",
+  "directoryUrl": "",
+  "abstract": "Evapotranspiración",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Vector",
+  "layers": [{"title": "Evapotranspiración","name": "Evapotranspiración","queryable": true}]
 }
 ]
