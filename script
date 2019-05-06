@@ -89,5 +89,14 @@
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
   "serviceInterfaceType": "Vector",
   "layers": [{"title": "Evapotranspiración","name": "Evapotranspiración","queryable": true}]
+},
+{
+  "title": "Cartografía Ambiental",
+  "url": "http://localhost:3000/cat_CHC2012v2atr_wgs84.zip",
+  "directoryUrl": "",
+  "abstract": "Cartografía Ambiental",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Vector",
+  "layers": [{"title": "Cartografía Ambiental","name": "Cartografía Ambiental","queryable": true}]
 }
 ]
