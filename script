@@ -44,5 +44,23 @@
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
   "serviceInterfaceType": "Raster",
   "layers": [{"title": "TEMPERATURA MÁXIMA","name": "Temperatura máxima anual","queryable": true}]
+},
+{
+  "title": "Temperatura Mínima Anual",
+  "url": "http://localhost:3000/T_min_anual_WGS84.tif",
+  "directoryUrl": "",
+  "abstract": "En la siguiente representación es posible visualizar la temperatura mínima",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Raster",
+  "layers": [{"title": "TEMPERATURA MÍNIMA","name": "TEMPERATURA MÍNIMA","queryable": true}]
+},
+{
+  "title": "Temperatura Media Anual",
+  "url": "http://localhost:3000/T_mitjana_anual_WGS84.tif",
+  "directoryUrl": "",
+  "abstract": "En la siguiente representación es posible visualizar la temperatura media anual",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Raster",
+  "layers": [{"title": "TEMPERATURA MEDIA","name": "TEMPERATURA MEDIA","queryable": true}]
 }
 ]
