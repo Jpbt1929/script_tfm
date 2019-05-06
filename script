@@ -143,5 +143,23 @@
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
   "serviceInterfaceType": "Vector",
   "layers": [{"title": "Mapa geologico de Catalunya","name": "Mapa geologico de Catalunya","queryable": true}]
+},
+{
+  "title": "NDVI",
+  "url": "http://localhost:3000/NDVI_L8CN1_wgs84.tif",
+  "directoryUrl": "",
+  "abstract": "Representación de la presencia de vegetación en las diferentes partes",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Raster",
+  "layers": [{"title": "Índice de Vegetación de Diferencia Normalizada","name": "Índice de Vegetación de Diferencia Normalizada","queryable": true}]
+},
+{
+  "title": "Espacios de interés geológico",
+  "url": "http://localhost:3000/mgc50mpv01_wgs84.zip",
+  "directoryUrl": "",
+  "abstract": "Representación de los espacios de interés geológico de Catalunya",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Vector",
+  "layers": [{"title": "Espacios de interés geológico","name": "Espacios de interés geológico","queryable": true}]
 }
 ]
