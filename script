@@ -35,8 +35,8 @@
   ]
 },
 {
-  "title": "Precipitación",
-  "url": "http://betaserver.icgc.cat/dades/Precipitacio_anual_WGS84.tif",
+  "title": "Precipitación anual",
+  "url": "http://localhost:3000/Precipitació_anual_WGS84.zip",
   "directoryUrl": "",
   "abstract": "Precipitación",
   "extent": [
