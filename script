@@ -20,7 +20,7 @@
 },
 {
   "title": "Precipitación anual",
-  "url": "http://localhost:3000/Precipitacio_anual_WGS84.tif",
+  "url": "http://localhost:3000/precipitacio_anual_wgs84.tif",
   "directoryUrl": "",
   "abstract": "Precipitación",
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
@@ -29,7 +29,7 @@
 },
 {
   "title": "Radiación anual",
-  "url": "http://localhost:3000/Radiacio_anual_WGS84.tif",
+  "url": "http://localhost:3000/radiacio_anual_wgs84.tif",
   "directoryUrl": "",
   "abstract": "Radiación anual",
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
@@ -38,7 +38,7 @@
 },
 {
   "title": "Temperatura Máxima Anual",
-  "url": "http://localhost:3000/T_max_anual_WGS84.tif",
+  "url": "http://localhost:3000/t_max_anual_wgs84.tif",
   "directoryUrl": "",
   "abstract": "En la siguiente representación es posible visualizar la temperatura máxima",
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
@@ -47,7 +47,7 @@
 },
 {
   "title": "Temperatura Mínima Anual",
-  "url": "http://localhost:3000/T_min_anual_WGS84.tif",
+  "url": "http://localhost:3000/t_min_anual_wgs84.tif",
   "directoryUrl": "",
   "abstract": "En la siguiente representación es posible visualizar la temperatura mínima",
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
@@ -56,7 +56,7 @@
 },
 {
   "title": "Temperatura Media Anual",
-  "url": "http://localhost:3000/T_mitjana_anual_WGS84.tif",
+  "url": "http://localhost:3000/t_mitjana_anual_wgs84.tif",
   "directoryUrl": "",
   "abstract": "En la siguiente representación es posible visualizar la temperatura media anual",
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
