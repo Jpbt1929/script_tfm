@@ -62,5 +62,14 @@
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
   "serviceInterfaceType": "Raster",
   "layers": [{"title": "TEMPERATURA MEDIA","name": "TEMPERATURA MEDIA","queryable": true}]
+},
+{
+  "title": "Deficiencia hídrica",
+  "url": "http://localhost:3000/defhid_wgs84.zip",
+  "directoryUrl": "",
+  "abstract": "Deficiencia hídrica",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Vector",
+  "layers": [{"title": "Deficiencia hídrica","name": "Deficiencia hídrica","queryable": true}]
 }
 ]
