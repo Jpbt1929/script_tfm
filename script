@@ -35,5 +35,14 @@
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
   "serviceInterfaceType": "Raster",
   "layers": [{"title": "Radiación","name": "Radiación","queryable": true}]
+},
+{
+  "title": "Temperatura Máxima Anual",
+  "url": "http://localhost:3000/T_max_anual_WGS84.tif",
+  "directoryUrl": "",
+  "abstract": "En la siguiente representación es posible visualizar la temperatura máxima",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Raster",
+  "layers": [{"title": "TEMPERATURA MÁXIMA","name": "Temperatura máxima anual","queryable": true}]
 }
 ]
