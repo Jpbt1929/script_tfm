@@ -130,9 +130,18 @@
   "title": "Mapa geologico de Catalunya",
   "url": "http://localhost:3000/mgc50mlv01_wgs84.zip",
   "directoryUrl": "",
-  "abstract": "Representación geologica de Catalunya",
+  "abstract": "Representación geologica de Catalunya en formato de lineas",
   "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
-  "serviceInterfaceType": "Raster",
+  "serviceInterfaceType": "Vector",
+  "layers": [{"title": "Mapa geologico de Catalunya","name": "Mapa geologico de Catalunya","queryable": true}]
+},
+{
+  "title": "Mapa geologico de Catalunya",
+  "url": "http://localhost:3000/mgc50mpv01_wgs84.zip",
+  "directoryUrl": "",
+  "abstract": "Representación geologica de Catalunya en formato de puntos",
+  "extent": [40.69943278812824,-118.13263373409423,54.67424204027964,-42.3551815714545],
+  "serviceInterfaceType": "Vector",
   "layers": [{"title": "Mapa geologico de Catalunya","name": "Mapa geologico de Catalunya","queryable": true}]
 }
 ]
